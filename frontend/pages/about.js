@@ -2,28 +2,28 @@ import Head from "next/head";
 import Navbar from "../components/Navbar";
 
 const team = [{
-    name: "Nathan Luu",
+    name: "Max Nardi",
     role: "Frontend/Backend Developer",
     image: "/bears/nathan_bear.svg",
     linkedIn: "www.linkedin.com/in/nthnluu",
     github: "https://github.com/nthnluu",
     website: "https://nthnluu.com"
 }, {
-    name: "Jasper Chen",
+    name: "Alex ",
     role: "Frontend Designer/Developer",
     image: "https://ventureatbrown.com/bears/smiling_red_bear.svg",
     linkedIn: "https://www.linkedin.com/in/jasper-chen-1b8b98197",
     github: "https://github.com/Jasch3n",
     website: "https://jasch3n.github.io/mySite"
 }, {
-    name: "Abby Powell",
+    name: "Jason He",
     role: "Frontend Developer",
     image: "https://ventureatbrown.com/bears/experienced_pink.svg",
     linkedIn: "https://www.linkedin.com/in/abigail-powell-75705b173",
     github: "https://github.com/abigail-powell",
     website: "https://nthnluu.com"
 }, {
-    name: "Aaron Wang",
+    name: "David Xiang",
     role: "Project Manager",
     image: "https://ventureatbrown.com/bears/experienced_green.svg",
     linkedIn: "https://linkedin.com/in/aaronjwang",
@@ -35,15 +35,14 @@ const About = () => {
     const buttonStyle = "text-gray-400 hover:text-gray-300 focus:text-gray-200 transition-all duration-200"
     return <>
         <Head>
-            <title>About | Venture@Brown</title>
+            <title>About | V1@Virginia</title>
         </Head>
         <div className="max-w-3xl mx-auto px-4 my-24">
             <Navbar/>
             <h1 className="text-5xl font-bold text-gray-900 font-display">About</h1>
             <section>
                 <p className="text-xl text-gray-400 my-4">
-                    Venture At Brown was created by the Brown EP Tech Team to share the spirit of entrepreneurship by helping Brown and RISD students navigate the entrepreneurial
-                    resources on College Hill.
+                    V1 is the community for ambitious student builders at the University of Virginia. At our core, we support students who are working on side-projects and startups — those who are looking to build their V1: the first version of their product and onwards.
                 </p>
                 <a className="red-link text-xl" href="https://www.brownentrepreneurship.com/">Learn more about Brown EP &rarr;</a>
             </section>

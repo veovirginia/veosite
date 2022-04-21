@@ -6,7 +6,7 @@ export default function Navbar({isLanding}) {
     return <div className="absolute top-0 right-0 p-4 w-full flex justify-between items-center font-display bg-white z-50">
         <Link href="/">
             <a className="font-semibold text-gray-700 text-xl">
-                Venture<span className="font-sans text-gray-300 font-light">@</span>Brown
+                V1<span className="font-sans text-gray-300 font-light">@</span>Virginia
             </a>
         </Link>
         <div className="space-x-4 md:space-x-6">
