@@ -24,7 +24,7 @@ const Resources = () => {
 
     return <>
         <Head>
-            <title>Resources | Venture@Brown</title>
+            <title>Resources | V1</title>
         </Head>
         <div className="max-w-3xl mx-auto px-4 my-24">
             <Navbar/>

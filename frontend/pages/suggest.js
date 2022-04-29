@@ -33,7 +33,7 @@ const Suggest = () => {
 
     return <>
         <Head>
-            <title>Suggest a resouce | Venture@Brown</title>
+            <title>Suggest a resouce | V1</title>
         </Head>
         <div className="max-w-3xl mx-auto px-4 my-24">
             <Navbar/>
