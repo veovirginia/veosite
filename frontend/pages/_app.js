@@ -16,7 +16,7 @@ function MyApp({Component, pageProps}) {
 
     return <div className="app-container">
         <Head>
-            <title>V1</title>
+            <title>v1</title>
         </Head>
         <Component {...pageProps} />
     </div>

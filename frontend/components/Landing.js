@@ -7,7 +7,7 @@ export default function () {
         <Navbar isLanding/>
         <img src="/bears/smiling_red_bear.svg" className="rounded-lg mb-6 h-64 mx-auto"/>
         <div className="text-center">
-            <h1 className="text-3xl sm:text-5xl font-bold text-gray-900">V1<span className="font-sans text-gray-400 font-light">@</span>Virginia</h1>
+            <h1 className="text-3xl sm:text-5xl font-bold text-gray-900">v1<span className="font-sans text-gray-400 font-light">@</span>Virginia</h1>
             <p className="text-xl text-gray-500">Discover the entrepreneurial resources around Charlottesville.</p>
             <div className="mt-4">
                 <Link href="/survey">
