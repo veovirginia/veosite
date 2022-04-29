@@ -16,9 +16,6 @@ export default function Navbar({isLanding}) {
             <Link href="/resources">
                 <a className={linkStyling}>Resources</a>
             </Link>
-            <Link href="https://github.com/aaronwangj/ventureatbrown" target="_blank">
-                <a className={linkStyling}>Github</a>
-            </Link>
             {!isLanding && <Link href="/survey">
                 <a className="red-link">Take the survey! &rarr;</a>
             </Link>}

@@ -1,8 +1,6 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/brown-ep.appspot.com/o/readme.png?alt=media&token=a3f9f6a8-8a66-4ac2-bafe-b2e6e098d6a3"/>
+# [v1 @ Virginia](https://v1virginia.com)
 
-# [Venture @ Brown](https://ventureatbrown.com)
-
-An interactive guide to help Brown and RISD navigate the entrepreneurial resources on College Hill.
+Inspired by [Venture@Brown](https://ventureatbrown.com/),
 
 ## Getting Started
 
@@ -44,4 +42,3 @@ This site can be deployed anywhere that supports Node.js — we find [Vercel](ht
 
 * [Next.js](https://nextjs.org/) - The React-based web framework used ([Docs](https://nextjs.org/docs), [Tutorial](https://nextjs.org/learn))
 * [Tailwind CSS](https://tailwindcss.com/) - Styling ([Docs](https://tailwindcss.com/docs/installation), [Playground](https://play.tailwindcss.com))
-* Love ❤️
