@@ -3,30 +3,37 @@ import Navbar from "../components/Navbar";
 
 const team = [{
     name: "Max Nardi",
-    role: "Frontend/Backend Developer",
+    role: "v1 Builder",
     image: "/bears/nathan_bear.svg",
-    linkedIn: "",
+    linkedIn: "https://www.linkedin.com/in/maxwellnardi/",
     github: "",
-    website: ""
+    website: "https://dribbble.com/maxwellnardi"
 }, {
     name: "Alex Becker",
-    role: "Frontend Designer/Developer",
+    role: "v1 Builder",
     image: "https://ventureatbrown.com/bears/smiling_red_bear.svg",
     linkedIn: "https://www.linkedin.com/in/alexandermbecker/",
     github: "",
-    website: ""
+    website: "https://amb.horse"
 }, {
     name: "Jason He",
-    role: "Frontend Developer",
+    role: "v1 Builder",
     image: "https://ventureatbrown.com/bears/experienced_pink.svg",
     linkedIn: "https://www.linkedin.com/in/jasonjche/",
     github: "",
     website: ""
 }, {
     name: "David Xiang",
-    role: "Project Manager",
+    role: "v1 Builder",
     image: "https://ventureatbrown.com/bears/experienced_green.svg",
     linkedIn: "https://www.linkedin.com/in/david-xiang-4891371a6/",
+    github: "",
+    website: ""
+}, {
+    name: "Shaurya Bedi",
+    role: "v1 Builder",
+    image: "https://ventureatbrown.com/bears/experienced_green.svg",
+    linkedIn: "https://www.linkedin.com/in/shaurya-bedi-29060b190/",
     github: "",
     website: ""
 }]
