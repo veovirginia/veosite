@@ -13,6 +13,15 @@ module.exports = {
         display: ['sofia-pro', ...defaultTheme.fontFamily.sans],
       }
     },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'white': '#F9F9FB',
+      'blue': '#0070F3',
+      'turquoise': '#50E3C2',
+      'violet': '#7928CA',
+      'black': '#232323',
+    },
   },
   variants: {
     opacity: ['responsive', 'hover', 'focus', 'group-hover', 'group-focus'],

@@ -17,10 +17,10 @@ const Resources = () => {
         disValues.map(item => sorted.find(element => element.id === item)) : sorted
 
 
-    const linkPillStyle = `py-1 hover:bg-red-50 hover:border-red-300 hover:text-red-600
-    focus:bg-red-50 focus:border-red-300 focus:text-red-600
+    const linkPillStyle = `py-1 hover:bg-violet hover:border-violet hover:text-white
+    focus:bg-violet focus:border-violet focus:text-white
     transition-all duration-200
-    px-2 text-sm text-gray-700 md:text-base border border-gray-200 shadow-sm rounded-full inline-block mb-2 mr-2`
+    px-2 text-sm text-white md:text-base border border-white shadow-sm rounded-full inline-block mb-2 mr-2`
 
     return <>
         <Head>
@@ -29,12 +29,12 @@ const Resources = () => {
         <div className="max-w-3xl mx-auto px-4 my-24">
             <Navbar/>
             <Link href="/suggest">
-                <a className="red-link uppercase text-lg">Suggest a resource</a>
+                <a className="red-link uppercase text-lg hover:text-violet">Suggest a resource</a>
             </Link>
 
-            <h1 className="text-5xl font-bold text-gray-900 font-display">Resources</h1>
+            <h1 className="text-5xl font-bold text-white font-display">Resources</h1>
             <section className="my-6">
-                <h2 className="font-display text-2xl font-semibold mb-4 text-gray-800">Categories</h2>
+                <h2 className="font-display text-2xl font-semibold mb-4 text-white">Categories</h2>
                 {values.map(resTree => <a className={linkPillStyle}
                                           href={`#${resTree.id}`}>{resTree.title}</a>)}
                 {Array.isArray(disValues) && <Link href="/resources">
@@ -46,15 +46,15 @@ const Resources = () => {
 
             </section>
             {values.map(resourceTree => (<section key={resourceTree.id} id={resourceTree.id} className="mt-8">
-                    <h2 className="font-display text-2xl font-semibold text-gray-800">{resourceTree.title}</h2>
-                    <ul className="divide-y divide-gray-300 mt-2">
+                    <h2 className="font-display text-2xl font-semibold text-blue">{resourceTree.title}</h2>
+                    <ul className="divide-y divide-white mt-2">
                         {resourceTree.resources.map(resource => (
                             <li key={resource.id} className="py-3">
                                 <a className="group" href={resource.url} target="_blank">
-                                    <h2 className="text-base font-medium text-gray-800 group-hover:text-red-600 group-focus:text-red-600">
+                                    <h2 className="text-base font-medium text-white group-hover:text-violet group-focus:text-violet">
                                         {resource.name}
                                     </h2>
-                                    <p className="text-gray-500 group-hover:text-red-600 group-focus:text-red-600 text-sm">
+                                    <p className="text-white group-hover:text-violet group-focus:text-violet text-sm">
                                         {resource.description}
                                     </p>
                                 </a>

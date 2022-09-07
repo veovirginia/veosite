@@ -459,7 +459,7 @@ export const resourceTrees = {
 			}
 		],
 	"id":11,
-	"title":"Small Grants"
+	"title":"Small Grants 💵"
 	},
 	"startupInternships":{
 		"resources":[

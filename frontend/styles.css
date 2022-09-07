@@ -6,13 +6,18 @@ html {
     scroll-behavior: smooth;
 }
 
+@layer base {
+  body {
+    @apply bg-black;
+  }
+}
 
 button:focus {
     @apply outline-none
 }
 
 .surveyButton {
-    @apply p-3 rounded-lg hover:text-red-700 hover:bg-red-50 transition-all duration-300 text-xl text-gray-600
+    @apply p-3 rounded-lg hover:text-blue hover:bg-blue transition-all duration-300 text-xl text-black
 
 }
 
@@ -38,13 +43,13 @@ button:focus {
 }
 
 .red-link {
-    @apply text-red-600 font-bold font-display
+    @apply text-blue font-bold font-display
 }
 .red-link:hover {
-    @apply text-red-500
+    @apply text-blue
 }
 .red-link:focus {
-    @apply text-red-500 underline
+    @apply text-blue underline
 }
 
 .polyfill-button {

@@ -1,12 +1,12 @@
 import Link from "next/link";
 
 export default function Navbar({isLanding}) {
-    const linkStyling = `text-gray-500 hover:text-red-600 focus:text-red-500 ${!isLanding && "hidden sm:inline"}`
+    const linkStyling = `text-white hover:text-blue focus:text-blue ${!isLanding && "hidden sm:inline"}`
 
-    return <div className="absolute top-0 right-0 p-4 w-full flex justify-between items-center font-display bg-white z-50">
+    return <div className="absolute top-0 right-0 p-4 w-full flex justify-between items-center font-display bg-black z-50">
         <Link href="/">
-            <a className="font-semibold text-gray-700 text-xl">
-                v1<span className="font-sans text-gray-300 font-light">@</span>Virginia
+            <a className="font-semibold text-white text-xl">
+                VEO
             </a>
         </Link>
         <div className="space-x-4 md:space-x-6">

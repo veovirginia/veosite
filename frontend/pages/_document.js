@@ -13,13 +13,16 @@ class MyDocument extends Document {
                     {/*Inter Web Font*/}
                     <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
 
+                    {/*Poppins Web Font*/}
+                    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins"/>
+
                     {/*Font Awesome*/}
                     <script src="https://kit.fontawesome.com/aeb9fcb31a.js" crossOrigin="anonymous"/>
 
                     {/*Sophia web font*/}
                     <link rel="stylesheet" href="https://use.typekit.net/blg0zww.css"/>
                 </Head>
-                <body>
+                <body classname="bg-black">
                 <Main />
                 <NextScript />
                 </body>
