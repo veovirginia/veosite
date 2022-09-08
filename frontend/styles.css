@@ -59,5 +59,25 @@ button:focus {
     height: 100vh; /* Fallback for browsers that do not support Custom Properties */
     height: calc(var(--vh, 1vh) * 100);
 }
+
+.color-change path{
+  fill: transparent !important;
+}
+
+.color-change {
+  background: linear-gradient(-45deg, #29BC9B, #7928CA, #FF0080);
+  background-size: 300%;
+  clip-path: url(#logoclip);
+  -webkit-text-fill-color: transparent;
+  animation: animated_text 5s ease-in-out infinite;
+  -moz-animation: animated_text 5s ease-in-out infinite;
+  -webkit-animation: animated_text 5s ease-in-out infinite;
+}
+
+@keyframes animated_text {
+	0% { background-position: 0px 50%; }
+	50% { background-position: 100% 50%; }
+	100% { background-position: 0px 50%; }
+}
 /* purgecss end ignore */
 @tailwind  utilities;

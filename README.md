@@ -1,4 +1,4 @@
-# [v1 @ Virginia](https://v1virginia.com)
+# [VEO](https://v1virginia.com)
 
 Inspired by [Venture@Brown](https://ventureatbrown.com/),
 

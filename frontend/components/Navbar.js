@@ -5,7 +5,7 @@ export default function Navbar({isLanding}) {
 
     return <div className="absolute top-0 right-0 p-4 w-full flex justify-between items-center font-display bg-black z-50">
         <Link href="/">
-            <a className="font-semibold text-white text-xl">
+            <a className="font-semibold text-white text-2xl">
                 VEO
             </a>
         </Link>

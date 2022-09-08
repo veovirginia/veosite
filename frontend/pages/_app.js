@@ -16,7 +16,8 @@ function MyApp({Component, pageProps}) {
 
     return <div className="app-container">
         <Head>
-            <title>v1</title>
+            <title>VEO</title>
+            <link rel="icon" href="/images/altdarklogo.svg" />
         </Head>
         <Component {...pageProps} />
     </div>
