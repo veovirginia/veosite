@@ -22,7 +22,7 @@ class MyDocument extends Document {
                     {/*Sophia web font*/}
                     <link rel="stylesheet" href="https://use.typekit.net/blg0zww.css"/>
                 </Head>
-                <body classname="bg-black">
+                <body className="bg-black">
                 <Main />
                 <NextScript />
                 </body>

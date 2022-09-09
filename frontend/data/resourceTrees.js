@@ -9,7 +9,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Dorm Room Fund",
-				"image":"https://join.dormroomfund.com/groupshot.JPG",
+				"image":"https://pbs.twimg.com/profile_images/1305941548870369284/8C3qn0aA_400x400.jpg",
 				"description":"DRF provides connection to a powerful investor network, world-class mentors, and a $40,000 check to student ventures.",
 				"url":"https://www.dormroomfund.com/",
 			},
@@ -38,12 +38,6 @@ export const resourceTrees = {
 				"url":"https://www.gwcuva.com/hack",
 			},
 			{
-				"name":"Hack@Home",
-				"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSF4UwabUoZ-e7FXkGO7ouqSYZR1qXD7DoW9Q&usqp=CAU",
-				"description":"Hack@Home is a 4-day virtual hackathon all about exploring the world of computer science from the comfort of your home. The event is organized by Full Stack at Brown.",
-				"url":"https://hackathome.org/",
-			},
-			{
 				"name":"HooHacks",
 				"image":"https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/412/344/datas/original.png",
 				"description":"UVA's largest hackathon. A 24-hour tech event for teams of students to learn new skills, build cool tech projects, and meet tons of other students and tech professionals.",
@@ -51,13 +45,13 @@ export const resourceTrees = {
 			},
 			{
 				"name":"The Galant Challenge",
-				"image":"https://res.cloudinary.com/mcintire/image/upload/g_auto,c_fill,fl_progressive,f_auto,e_sharpen:100,w_488,h_320/dpr_auto/v1643405110/Galant%20Challenge%202022_qtSr9bym.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"The Galant Center’s annual “Shark Tank”-type pitch competition connects compelling seed- and early-stage ventures from the UVA community with potential investors. In recent years, this exciting event has successfully funded ventures with almost $5 million in capital.",
 				"url":"https://galantchallenge.virginia.edu/",
 			},
 			{
 				"name":"UVA Entrepreneurship Cup (E-Cup)",
-				"image":"https://cdn.uconnectlabs.com/wp-content/uploads/sites/41/2018/04/ECup.png?v=3711",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"Compete to pitch an idea in the Concept stage (October/November) to win up to $1,000. Pitch your MPV in the Discovery stage (February) to win up to $5,000. Pitch your fully launched startup in the Launch stage (March/April) to win up to $20,000.",
 				"url":"https://entrepreneurship.virginia.edu/ecup",
 			}
@@ -69,7 +63,7 @@ export const resourceTrees = {
 		"resources":[
 			{
 				"name":"Catalyst Accelerator",
-				"image":"https://economicdevelopment.virginia.edu/sites/economicdevelopment/files/2019-08/zoomed%20out_aspect%20ratio%20for%20spotlight.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"Long-format accelerator, providing early-stage startups in central Virginia with nine months of program support, including: $20,000 in grant funding, dedicated workspace, experienced founders-in-residence, monthly programming, dedicated staff, a large network of industry experts, and access to nearly $50,000 in additional resources.",
 				"url":"https://www.434.co/",
 			},
@@ -86,9 +80,9 @@ export const resourceTrees = {
 				"url":"https://www.darden.virginia.edu/batten-institute/ventures/ilab",
 			},
 			{
-				"name":"Dorm Room Fund’s Blueprint Project is a 9-week program in New York City supporting underrepresented founders of color.",
-				"image":"https://images.typeform.com/images/Xvh3BHszwvxH/image/default",
-				"description":"Blueprint Founders Track (DRF)",
+				"name":"Dorm Room Fund’s Blueprint Project",
+				"image":"https://www.dormroomfund.com/brand/apply/blueprint.svg",
+				"description":"Dorm Room Fund’s Blueprint Investor Track is a 8-week masterclass aimed at supporting the next generation of diverse venture investors! We’re bringing together talented Black, Latinx, and Indigenous students with an entrepreneurial mindset who want to find a community and learn from some of the best startup investors in the business.",
 				"url":"https://blueprint.dormroomfund.com/",
 			},
 			{
@@ -111,19 +105,19 @@ export const resourceTrees = {
 			},
 			{
 				"name":"NSF I-Corps at UVA",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"Offers a proof-of-concept program that accelerates the pace of moving funded research towards commercialization. The program teaches the essentials of the Business Model Canvas and how to complete effective customer discovery (not sales). Program participants can apply for up to $2,700 in grant funding to conduct customer discovery, market research or purchase supplies to create a prototype. Successful completion of the I-Corps Site program positions teams to apply to the NSF National I-Corps Program, an intensive seven-week program that provides up to $50,000 in grant funding.",
 				"url":"https://engineering.virginia.edu/departments/engineering-and-society/entrepreneurship-and-business/es-nsf-i-corps-page",
 			},
 			{
 				"name":"Pike Engineering Entrepreneurship Fellows",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"Pike Engineering Entrepreneurship Fellows Program provides funding and intensive support, guidance and mentorship for early-stage University of Virginia student entrepreneurial projects that were based on developing or commercializing some form of novel technology. In a culminating event, the student teams compete for the $50,000 Pike Award for Innovation and Entrepreneurship.",
 				"url":"https://engineering.virginia.edu/departments/engineering-and-society/entrepreneurship-and-business/pike-fellows-program",
 			},
 			{
 				"name":"Sustainable Enterprise Greenhouse",
-				"image":"https://segreenhouse.org/wp-content/themes/seg/images/logo-greenblue.png",
+				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/279217680_359586922870476_2763112223261130525_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JJIiswyOb1EAX-ktLMZ&_nc_ht=scontent-iad3-1.xx&oh=00_AT9NWr-b-LgaDy97Va_WIy2LDrdSXzllzQH0dZx0Z90b_w&oe=631E5CEE",
 				"description":"Social Enterprise Greenhouse creates positive social and economic impact by providing social entrepreneurs and enterprises with the tools and networks they need to thrive.",
 				"url":"https://segreenhouse.org/",
 			}
@@ -153,7 +147,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Dorm Room Fund Investor Partner",
-				"image":"https://join.dormroomfund.com/groupshot.JPG",
+				"image":"https://pbs.twimg.com/profile_images/1305941548870369284/8C3qn0aA_400x400.jpg",
 				"description":"Dorm Room Fund Investor Partners discover and back the best student founders as a member of their investment team.",
 				"url":"https://join.dormroomfund.com/",
 			},
@@ -165,7 +159,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Unshackled Fellowships",
-				"image":"https://miro.medium.com/max/1400/1*O7I1b8bR1MG5uhapcwvXqg.png",
+				"image":"https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/akh4zfkbhqbj44wre4sd",
 				"description":"Unshackled Ventures is the first and only early-stage venture capital fund for immigrant founders. Besides investing in immigrants, they also sponsor visas & green cards to enable immigrants to spend 100% of their time building companies.",
 				"url":"https://medium.com/unshackled-ventures/launching-our-university-fellowship-3-0-3a975c7c8e0e",
 			}
@@ -201,73 +195,73 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Course - ARCH 2070",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"ARCH 2070 Into to Designing and Thinking",
 				"url":"https://www.coursicle.com/virginia/courses/ARCH/2070/",
 			},
 			{
 				"name":"Course - COMM 3790",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"COMM 3790 Venture Capital and Emerging Firms",
 				"url":"https://www.coursicle.com/virginia/courses/COMM/3790/",
 			},
 			{
 				"name":"Course - COMM 4381",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"COMM 4381 Developing and Managing Innovative Products",
 				"url":"https://www.coursicle.com/virginia/courses/COMM/4381/",
 			},
 			{
 				"name":"Course - COMM 4680",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"COMM 4680 Entrepreneurship",
 				"url":"https://www.coursicle.com/virginia/courses/COMM/4680/",
 			},
 			{
 				"name":"Course - COMM 4681",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"COMM 4681 Entrepreneurship Track Capstone",
 				"url":"https://www.coursicle.com/virginia/courses/COMM/4681/",
 			},
 			{
 				"name":"Course - ENTP 1010",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"ENTP 1010 Startup: An Introduction to Entrepreneurship",
 				"url":"https://www.coursicle.com/virginia/courses/ENTP/1010/",
 			},
 			{
 				"name":"Course - ENTP 4000",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"ENTP 4000 Launch An accelerator that counts as class credit. Students in groups further develop over the course of a semester a venture of their own design.",
 				"url":"https://www.coursicle.com/virginia/courses/ENTP/4000/",
 			},
 			{
 				"name":"Course - LPPS 3050",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"LPPS 3050 Introduction to Social Entrepreneurship",
 				"url":"https://www.coursicle.com/virginia/courses/LPPS/3050/",
 			},
 			{
 				"name":"Course - STS 2810",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"STS 2810 Introduction to Technology Entrepreneurship",
 				"url":"https://www.coursicle.com/virginia/courses/STS/2810/",
 			},
 			{
 				"name":"Course - STS 2830",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"STS 2830 Startup Operations for Entrepreneurs",
 				"url":"https://www.coursicle.com/virginia/courses/STS/2830/",
 			},
 			{
 				"name":"Entrepreneurship Minor ",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"The Entrepreneurship Minor connects entrepreneurship efforts among multiple schools at the University of Virginia through a coordinated and collective curriculum. You can choose one of three concentrations within the minor.",
 				"url":"https://www.commerce.virginia.edu/minors/entrepreneurship",
 			},
 			{
 				"name":"Galant Center for Entrepreneurship",
-				"image":"https://res.cloudinary.com/mcintire/image/upload/g_auto,c_fill,fl_progressive,f_auto,e_sharpen:100,w_488,h_320/dpr_auto/v1643405110/Galant%20Challenge%202022_qtSr9bym.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"Mission is to encourage, educate, and empower students---past and present---to take on crucial roles in the new venture community, thereby impacting positively the world in which we live and creating value of all kinds.",
 				"url":"https://www.commerce.virginia.edu/entrepreneurship",
 			},
@@ -279,13 +273,13 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Social Entrepreneurship (SE)@UVA",
-				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/219148671_1766565373539980_7919919148845598167_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dxYRGldjgeAAX-Aq0KO&_nc_ht=scontent-iad3-1.xx&oh=00_AT8NJcpSLBcBWPVnM-BjfEeFNiwmi3F4QTsqOppvR4YN1w&oe=6267A545",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"The SE program that creates opportunities for students to learn about and minor in social entrepreneurship.",
 				"url":"http://seatuva.org/",
 			},
 			{
 				"name":"Startup Seminar",
-				"image":"https://cpng.pikpng.com/pngl/s/471-4717522_uva-logo-horiz-revature-university-of-virginia-logo.png",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"The Startup Seminar is designed to provide a background in the challenges faced by the founders and funders of new ventures. The seminars are open to current students within any of the graduate programs at the University of Virginia. The weekly sessions are a mix of case discussions, workshops, and guest panels covering a range of topics: problem identification, design thinking, market context, hypothesis-driven prototypes, business models, investor presentations, founders agreements, intellectual property, sources of funding, etc.",
 				"url":"https://seminar.strtp.com/home",
 			},
@@ -294,12 +288,6 @@ export const resourceTrees = {
 				"image":"https://cdn-images-1.medium.com/max/1200/1*3MxC_aoAUuSeuSE4ohx3Wg.png",
 				"description":"Initiative for members of the UVA community to collaborate on applications and solutions that benefit grounds",
 				"url":"https://devhub.virginia.edu/index",
-			},
-			{
-				"name":"Venture Capital Inclusion Lab",
-				"image":"https://vcinclusion.com/wp-content/uploads/2019/09/VCInclusionLab_horizontal_fullcolor.png",
-				"description":"A group of researchers, scholars, and practitioners who share a belief that inclusion is the foundation of our economy.",
-				"url":"https://vcinclusion.com/",
 			}
 		],
 	"id":3,
@@ -309,7 +297,7 @@ export const resourceTrees = {
 		"resources":[
 			{
 				"name":"Alpha Kappa Psi",
-				"image":"http://akpsiatuva.org/images/AKPsiLogo.png",
+				"image":"https://pbs.twimg.com/profile_images/1166840070650961920/TDe3bwQc_400x400.jpg",
 				"description":"A co-ed professional business fraternity affiliated to the McIntire School of Commerce.",
 				"url":"https://akpsiatuva.org/",
 			},
@@ -321,7 +309,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Darden Business Innovation & Design Club (DBID)",
-				"image":"https://www.darden.virginia.edu/sites/default/files/inline-images/DBID%20Logo.png",
+				"image":"https://pbs.twimg.com/profile_images/882632163459575808/ohUgtysy_400x400.jpg",
 				"description":"The Darden Business Innovation & Design Club exists to foster a community around, promote the ideals of, and encourage career paths that incorporate design methodologies in leading business organizations.",
 				"url":"https://www.dardenbid.com/",
 			},
@@ -339,13 +327,13 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Enactus",
-				"image":"https://enactus.s3.amazonaws.com/assets/enactus-org/large/home-logo.png",
+				"image":"https://static.wixstatic.com/media/126f3c_09e0fe4334cd4233868056ba66b3bc26~mv2.jpg/v1/fit/w_669%2Ch_669%2Cal_c%2Cq_80/file.jpg",
 				"description":"At Enactus, students apply business skills to community projects to address social, economic, and environmental concerns both in Charlottesville and in the greater global community.",
 				"url":"https://www.enactusatuva.com/",
 			},
 			{
 				"name":"Forge",
-				"image":"https://miro.medium.com/max/1400/1*OwoWVYLlW8Js1PYHkeR2Xw.png",
+				"image":"https://se-images.campuslabs.com/clink/images/9a0a7d3c-c0ed-46b3-9c67-98e42b3f94365291cff7-fc67-4f73-b942-f6b256cc903d.png?preset=med-sq",
 				"description":"Forge is a community-owned school that prepares you for today's world with the life and tech skills you need to succeed.",
 				"url":"https://joinforge.co/",
 			},
@@ -363,7 +351,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Jefferson Startup Network (JSN)",
-				"image":"https://static.wixstatic.com/media/17b816_2a4fb1280b514957a7fb26c9b4b701c8~mv2.png/v1/fill/w_150,h_79,al_c,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202020-05-16%20at%201_42_06%20AM.png",
+				"image":"https://media-exp1.licdn.com/dms/image/C4E0BAQFiH_nLVMNlKw/company-logo_200_200/0/1589618538135?e=2147483647&v=beta&t=1jZR-IJC8URjxwMl12n-Llt-uVWMJ9D0C-ZO3Oulyik",
 				"description":"JSN connects driven UVA undergraduate students with projects at exciting West Coast startups. Aims to educate students from the start of their collegiate careers about the startup space and give them opportunities to connect with current entrepreneurs in cutting-edge spaces.",
 				"url":"https://www.jeffersonstartupnetwork.org/",
 			},
@@ -375,7 +363,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Nano and Emerging Technologies Club (NExT)",
-				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t31.18172-8/14940015_1239300249474418_205996671178890594_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ZFB5gWQLnn0AX_OluA5&_nc_ht=scontent-iad3-1.xx&oh=00_AT8MB90nBeQZt22-C0i20F4SMRZPUwVmWcgc3xu4-cn2eg&oe=628762CD",
+				"image":"https://se-images.campuslabs.com/clink/images/6f266158-777f-4a8a-a4b1-a48279382ba910a583ac-d551-4294-be7a-dfd05d377e28.jpg?preset=med-sq",
 				"description":"NExT is devoted to raising awareness of current research and potential applications of nano and emerging technologies, building an interdisciplinary community of students interested in technologies of the future, facilitating interaction  with faculty and industry, and promoting science and engineering innovation.",
 				"url":"https://atuva.student.virginia.edu/organization/next",
 			},
@@ -393,7 +381,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"UVA Solar Car Team",
-				"image":"http://static1.squarespace.com/static/5d8817b76406bb502c987470/t/5db4987d4fbade21d183c41b/1572116609250/SolarCarTeamLogo+%281%29.png?format=1500w",
+				"image":"https://scontent.fric1-2.fna.fbcdn.net/v/t31.18172-8/16602092_659061364280882_3769031431253545334_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YLu54h7F5z4AX8-JFF9&_nc_ht=scontent.fric1-2.fna&oh=00_AT_bqIW7-ph1h2mSOd-TLVnuZLMb_5uKZxkI9Ve4jpzg1g&oe=63419014",
 				"description":"Providing experiential learning and representing UVA through designing, building, and racing a solar-powered car",
 				"url":"https://www.solarcaratuva.org/",
 			},
@@ -417,13 +405,13 @@ export const resourceTrees = {
 			},
 			{
 				"name":"Women in Computing Sciences (WiCS)",
-				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/45024640_1120464551443206_3417155626571137024_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=e3qw0RESfjMAX_s5ygo&_nc_ht=scontent-iad3-1.xx&oh=00_AT9Bzw6Mpq4XE0CVKJ62yLFKo6uiRZTJAFLsB_emyHn76Q&oe=628638A1",
+				"image":"https://scontent.fric1-1.fna.fbcdn.net/v/t1.6435-9/45024640_1120464551443206_3417155626571137024_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gS1NderBA4sAX9xUvOw&_nc_ht=scontent.fric1-1.fna&oh=00_AT-TCQAVW4CuhRmHmLeCxJUAgKhCyRuoP9N5-iZbMTaiFw&oe=63401C21",
 				"description":"WiCS supports, celebrates, and encourages the growing community of women in computing. Aims to raise awareness of issues faced by women in technology, in addition to inspiring women to explore educational and professional opportunities in the field through mentorship and service.",
 				"url":"https://www.wicsatuva.com/",
 			},
 			{
 				"name":"Women's Entrepreneurship at UVA",
-				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/83032061_112966880243254_3117794580678836224_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zmIIc_7ywdoAX8yuM8_&_nc_ht=scontent-iad3-1.xx&oh=00_AT9Y8RUWinAW4q9qe8R6luS2BuspZMOBd5p7PF-AhKI5gQ&oe=628927CA",
+				"image":"https://scontent.fric1-1.fna.fbcdn.net/v/t39.30808-6/302009248_591698259215439_3989635383971814223_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yJdENdOF0yoAX9HOgeG&_nc_ht=scontent.fric1-1.fna&oh=00_AT_xk_5xuHfoKWiheuyiseJsBx6TJQf_rppF1BmHwaVQIg&oe=631FBD8F",
 				"description":"A group for early-stage projects and startups led by women entrepreneurs at UVA. Provides a community of female founders with the support, guidance, and resources they need to build successful, sustaining ventures.",
 				"url":"https://atuva.student.virginia.edu/organization/weatuva",
 			},
@@ -453,7 +441,7 @@ export const resourceTrees = {
 		"resources":[
 			{
 				"name":"Jefferson Trust",
-				"image":"https://www.vabookcenter.org/wp-content/uploads/sites/7/2021/04/JeffTrust_square_initiatvie.jpg",
+				"image":"https://pbs.twimg.com/profile_images/1217176235626754048/VxA4FWom_400x400.jpg",
 				"description":"Jefferson Trust provides grants to people affiliated with UVA working on initiatives which positively impact the student experience and UVA community. The Trust's Annual Cycle provides $10,000 to over $300,000 in funding with proposals due by October. The Trust's Flash Funding Cycle starts each January, accepting proposals up to $10,000, and awards grants on a month-to-month basis.",
 				"url":"https://jeffersontrust.org/grants/",
 			}
@@ -465,13 +453,13 @@ export const resourceTrees = {
 		"resources":[
 			{
 				"name":"8VC Fellows",
-				"image":"https://www.8vcfellowship.com/assets/fellowship-logo-02.svg",
+				"image":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1456898862/yzrhoc4y1poi37ffcrry.png",
 				"description":"The 8VC Fellowship is an immersive 3-month internship program that places undergraduate students into the world's most innovative startups.",
 				"url":"https://www.8vcfellowship.com/",
 			},
 			{
 				"name":"Bessemer Fellows",
-				"image":"https://d33wubrfki0l68.cloudfront.net/b80b11203d97fe01c5597ca3be70406ea48f5709/72a6f/assets/theme/img/clear.gif",
+				"image":"https://media-exp1.licdn.com/dms/image/C4E0BAQHfdXJtSUoP2Q/company-logo_200_200/0/1548910841316?e=2147483647&v=beta&t=cb58DP21cTVN4Je3EXg_8rYTEW-lOg4vDIeyYRhPEBw",
 				"description":"Bessemer Fellows places students with some of the fastest-growing technology companies in the world to acquire invaluable work experience and access to mentors, industry professionals and the Bessemer Fellows community.",
 				"url":"https://www.bvp.com/bessemer-fellows",
 			},
@@ -483,7 +471,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"IDE0 CoLab Fellowship",
-				"image":"https://d33wubrfki0l68.cloudfront.net/4f4975dd34a6f6c631e7efae966e6db78a171cd3/87570/img/logo.svg",
+				"image":"https://d33zlqvn7ozo9w.cloudfront.net/wp-content/uploads/2020/04/ideo-colab.jpg",
 				"description":"CoLab connects organizations to shape technology’s impact on the world. CoLab membership focuses on research & design across an evolving list of emerging technologies, global trends, and business challenges. They start with an organization’s hard problems and create experience prototypes that look 12+ months ahead of market.",
 				"url":"https://www.ideocolab.com/",
 			},
@@ -501,7 +489,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"UVA Career Center: Propel",
-				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t31.18172-8/24837542_10156143021561842_7085356022312078025_o.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=cRd0CGb7P4MAX8k0t8A&_nc_ht=scontent-iad3-1.xx&oh=00_AT-Jj_GL4mfZIMB4ljjQHxkdDx-La--D8NhCZwjoMerEzg&oe=62888666",
+				"image":"https://pbs.twimg.com/profile_images/877556953148424192/AmSe7JZk_400x400.jpg",
 				"description":"Propel is a 10-week program run by the Career Center designed to provide rising 4th and 3rd year UVA students with an opportunity to participate in team-based projects sourced through employer partners and local Charlottesville start-ups.",
 				"url":"https://career.virginia.edu/UVACareerAccelerator-Propel",
 			}
@@ -513,7 +501,7 @@ export const resourceTrees = {
 		"resources":[
 			{
 				"name":"CAV Angels",
-				"image":"https://cavangels.com/wp-content/uploads/2019/03/CAV-Angels-Logo-2019.png",
+				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/272712016_343340557796753_8051502977312100255_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5JH7ZjQ3BpcAX-U1KIc&_nc_ht=scontent-iad3-1.xx&oh=00_AT8wLP0ezLRLHt75pbz02GLRSmZ3x9I93hmvj6zj8v2BoQ&oe=631E65FC",
 				"description":"A non-profit organization housing the only angel group specifically catered towards UVA alumni. CAV Angels' mission is to provide education on investment in private, early stage companies to members of the UVA family, and to facilitate investment by members of the organization in early stage growth companies founded by members of the UVA family.",
 				"url":"https://www.cavangels.com/",
 			},
@@ -525,7 +513,7 @@ export const resourceTrees = {
 			},
 			{
 				"name":"LVG Seed Fund",
-				"image":"https://image.pitchbook.com/K1CpmdcgFX8osYbHlEVuNVfNR6d1585842244330_200x200",
+				"image":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/43788107_2103916939639786_5279658139963097088_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lUDv1QkDdggAX9Ud3bd&_nc_ht=scontent-iad3-1.xx&oh=00_AT_qIQGnwW741aOfe8sWNsYrfhDmIuVnccE1qjR4itOZjA&oe=633DBFD6",
 				"description":"The LVG Seed Fund supports new ventures emerging from the UVA research portfolio. Managed by the UVA Licensing & Ventures Group, the $10 million LVG Seed Fund is uniquely positioned to assess new ventures created from UVA research ideas and discoveries.",
 				"url":"https://lvg.virginia.edu/uva-seed-fund/uva-lvg-seed-fund",
 			},
@@ -534,12 +522,6 @@ export const resourceTrees = {
 				"image":"https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/akh4zfkbhqbj44wre4sd",
 				"description":"Unshackled Ventures is the first and only early-stage venture capital fund for immigrant founders. Besides investing in immigrants, they also sponsor visas & green cards to enable immigrants to spend 100% of their time building companies.",
 				"url":"https://www.unshackledvc.com/",
-			},
-			{
-				"name":"Waterman Ventures",
-				"image":"https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/bfwrt3aongizbab9xckw",
-				"description":"Waterman Ventures is a smart, simple way for Brown alums and friends of the community to add venture capital to their portfolio.",
-				"url":"https://www.avgfunds.com/waterman-ventures/",
 			}
 		],
 	"id":9,

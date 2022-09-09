@@ -87,7 +87,7 @@ const Survey = () => {
                             <ul className="divide-y divide-white w-full">
                                 {sorted.map(item => <li className="flex group justify-start items-center" key={item.name}>
                                         <img src={item.image}
-                                             className="w-12 h-12 rounded-lg object-cover border group-hover:border-red-300 group-focus:border-red-300 shadow-sm mr-4 transition-all duration-150"/>
+                                             className="w-12 h-12 rounded-lg object-cover bg-white shadow-sm mr-4 transition-all duration-150"/>
                                         <a className="block py-4 w-full text-left" href={item.url} target="_blank">
                                             <h2 className="lg:text-xl font-semibold text-white group-hover:text-blue group-focus:text-blue duration-150 inline-flex items-center">
                                                 {item.name}
