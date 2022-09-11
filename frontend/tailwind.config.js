@@ -10,7 +10,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
-        display: ["Inter", 'sofia-pro', ...defaultTheme.fontFamily.sans],
+        display: ['Poppins', ...defaultTheme.fontFamily.sans],
       }
     },
     colors: {
