@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Navbar from "../components/Navbar";
 
-const team = [{
+const team = [{/*
     name: "David Xiang",
     role: "VEO Builder",
     image: "/bears/nathan_bear.svg",
@@ -36,7 +36,9 @@ const team = [{
     linkedIn: "https://www.linkedin.com/in/shaurya-bedi-29060b190/",
     github: "",
     website: ""
+*/
 }]
+
 
 const About = () => {
     const buttonStyle = "text-blue hover:text-violet focus:text-violet transition-all duration-200"
@@ -44,7 +46,7 @@ const About = () => {
         <Head>
             <title>About | VEO</title>
         </Head>
-        <div className="max-w-3xl mx-auto px-4 my-24">
+          <div className="max-w-3xl mx-auto px-4 my-24">
             <Navbar/>
             <h1 className="text-5xl font-bold text-white font-display">About</h1>
             <section>
@@ -53,6 +55,7 @@ const About = () => {
                 </p>
                 <a target="__link" className="red-link text-xl" href="https://ui2cyosbr6d.typeform.com/to/IRWOc7Fk?utm_source=xxxxx&">Join and build with VEO &rarr;</a>
             </section>
+            {/*
             <section className="mt-16">
                 <h2 className="font-display text-2xl font-semibold mb-4 text-white">Our Team</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
@@ -79,7 +82,9 @@ const About = () => {
 
                 </div>
             </section>
+
             <div className="font-display text-white my-3">Special thanks to <a target="__link" className="red-link" href="https://ventureatbrown.com/">Venture@Brown</a></div>
+            */}
         </div>
     </>
 }
